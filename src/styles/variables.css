@@ -1,0 +1,42 @@
+:root {
+  /* Core Surfaces */
+  --bg-primary: #050811;
+  --bg-secondary: #0a101f;
+  --bg-card: rgba(15, 23, 42, 0.72);
+  --bg-card-solid: #0f172a;
+  --bg-elevated: rgba(18, 29, 52, 0.85);
+
+  /* Accents */
+  --accent-blue: #3b82f6;
+  --accent-blue-bright: #60a5fa;
+  --accent-cyan: #22d3ee;
+  --accent-cyan-dim: #06b6d4;
+  --accent-glow: rgba(34, 211, 238, 0.16);
+  --accent-blue-glow: rgba(59, 130, 246, 0.18);
+
+  /* Typography */
+  --text-primary: #f8fafc;
+  --text-secondary: #cbd5e1;
+  --text-muted: #94a3b8;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-display: 'Space Grotesk', 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  /* Borders & Glass */
+  --border-subtle: rgba(148, 163, 184, 0.14);
+  --border-accent: rgba(34, 211, 238, 0.28);
+  --border-strong: rgba(59, 130, 246, 0.4);
+  --glass-blur: blur(14px);
+
+  /* Layout */
+  --container-max: 1200px;
+  --nav-height: 74px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-card: 0 10px 30px -10px rgba(0, 0, 0, 0.6);
+  --shadow-glow: 0 0 24px rgba(34, 211, 238, 0.14);
+}
